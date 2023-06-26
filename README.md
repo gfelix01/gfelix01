@@ -6,6 +6,6 @@ Skills: / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page.https://github.com/gfelix01/Portafolio.github.io 
 - 🌱 I’m currently learning React and Vue. 
-- 👯 I’m looking to collaborate on I am interested in collaborating on large scale web development projects using technologies like React, Angular or Vue.js. I would like to contribute to open source projects related to artificial intelligence and machine learning. I am looking for opportunities to collaborate on projects to design user interfaces (UI) and improve the user experience (UX). 
+- 👯 I’m looking to collaborate on I am interested in collaborating on large scale web development projects using technologies like React. I would like to contribute to open source projects related to artificial intelligence and machine learning. I am looking for opportunities to collaborate on projects to design user interfaces (UI) and improve the user experience (UX). 
 
 
