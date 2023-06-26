@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Gabriel Felix
 #### I am Software Developer .
-Passionate about creating attractive and functional interfaces. Experience with HTML, CSS, JavaScript and frameworks like React and Vue.js. Committed to usability and UX/UI design. Effective collaborator and always willing to take on new challenges. Ready to improve the user experience in the digital world!
+Passionate about creating attractive and functional interfaces. Experience with HTML, CSS, JavaScript and frameworks like React. Committed to usability and UX/UI design. Effective collaborator and always willing to take on new challenges. Ready to improve the user experience in the digital world!
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page.https://github.com/gfelix01/Portafolio.github.io 
 - 🌱 I’m currently learning React and Vue. 
