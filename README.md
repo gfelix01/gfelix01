@@ -14,7 +14,9 @@ HTML /&#x1F3A8; <!-- 🎨 -->
 
 - 🔭 I’m currently working on this page.:fa-github:https://github.com/gfelix01/Portafolio.github.io 
 - 🌱 I  currently learning :React and Vue Js. 
-- 👯 I’m looking to collaborate:fa-code-fork: :fa-laptop: :fa-exchange: :fa-file-code-o: on I am interested in collaborating on large scale web development projects using technologies like React, Angular or Vue.js. I would like to contribute to open source projects related to artificial intelligence and machine learning. I am looking for opportunities to collaborate on projects to design user interfaces (UI) and improve the user experience (UX).
+- 👯"I am seeking collaboration opportunities in large-scale web development projects that leverage technologies such as React, Angular, or Vue.js. Additionally, I am enthusiastic about contributing to open source projects focused on artificial intelligence and machine learning. My interests also extend to collaborating on projects that involve designing user interfaces (UI) and enhancing user experience (UX)."
+
+This version maintains the same information while refining the wording slightly for clarity and readability.
 
 
 
