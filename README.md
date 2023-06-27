@@ -1,4 +1,4 @@
-# Hi there :tw-270c::tw-a9::tw-1f1f8: :tw-1f17e: :tw-1f1eb: :tw-1f1f9: :tw-1f1fc: :tw-1f170: :tw-1f1f7: :tw-1f1ea: :tw-1f51c:  :tw-1f1eb: :tw-1f1f7: :tw-1f1f4: :tw-1f1f3: :tw-1f1f9: :tw-1f51a:, my name is Gabriel Felix
+# Hi there, mi nombre es Gabriel Felix.
 
 [========]
 
@@ -7,8 +7,8 @@
 - Skills: / REACT / JS / :fa-html5:HTML / CSS
 
 - 🔭 I’m currently working on this page.:fa-github:https://github.com/gfelix01/Portafolio.github.io 
-- 🌱 I :tw-1f528:m currently learning :React and Vue Js. 
-- 👯 I’m looking to collaborate:fa-code-fork: :fa-laptop: :fa-exchange: :fa-file-code-o: on I am interested in collaborating on large scale web development projects using technologies like React, Angular or Vue.js. I would like to contribute to open source projects related to artificial intelligence and machine learning. I am looking for opportunities to collaborate on projects to design user interfaces (UI) and improve the user experience (UX). 
+- 🌱 I  currently learning :React and Vue Js. 
+- 👯 I’m looking to collaborate:fa-code-fork: :fa-laptop: :fa-exchange: :fa-file-code-o: on I am interested in collaborating on large scale web development projects using technologies like React, Angular or Vue.js. I would like to contribute to open source projects related to artificial intelligence and machine learning. I am looking for opportunities to collaborate on projects to design user interfaces (UI) and improve the user experience (UX).
 
 
 
