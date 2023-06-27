@@ -1,4 +1,4 @@
-# Hi there, mi nombre es Gabriel Felix.
+# Hi there, my name is Gabriel Felix.
 
 [========]
 
