@@ -4,7 +4,10 @@
 
 - Passionate about creating attractive and functional interfaces. Experience with HTML, CSS, JavaScript and frameworks like React. Committed to usability and UX/UI design. Effective collaborator and always willing to take on new challenges. Ready to improve the user experience in the digital world!
 
-- Skills: / REACT / JS / :fa-html5:HTML / CSS
+- Skills: / REACT / &#x1F3A5; <!-- 🔥 -->
+JS /&#x1F4D1; <!-- Libro -->
+HTML /&#x1F3A8; <!-- 🎨 -->
+ CSS
 
 - 🔭 I’m currently working on this page.:fa-github:https://github.com/gfelix01/Portafolio.github.io 
 - 🌱 I  currently learning :React and Vue Js. 
