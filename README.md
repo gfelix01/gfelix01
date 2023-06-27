@@ -1,6 +1,8 @@
 # Hi,&#x1F44B;I'm Gabriel.
 ![giphy](https://github.com/gfelix01/gfelix01/assets/98698512/8b162669-c155-49b7-91d0-a255888d74d7)
 
+https://github.com/gfelix01/gfelix01/assets/98698512/3d92a9ec-86e1-4147-8631-9626e6404aca
+
 [========]
 
 - Passionate about creating attractive and functional interfaces. Experience with HTML, CSS, JavaScript and frameworks like React. Committed to usability and UX/UI design. Effective collaborator and always willing to take on new challenges. Ready to improve the user experience in the digital world!
