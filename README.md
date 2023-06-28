@@ -12,7 +12,7 @@ JS /&#x1F4D1; <!-- Libro -->
 HTML /&#x1F3A8; <!-- 🎨 -->
  CSS
 
-- 🔭 I’m currently working on this page.:fa-github:https://github.com/gfelix01/Portafolio.github.io 
+- 🔭 I’m currently working on this page.:https://github.com/gfelix01/Portafolio.github.io 
 - 🌱 I  currently learning :React and Vue Js. 
 - 👯"I am seeking collaboration opportunities in large-scale web development projects that leverage technologies such as React, Angular, or Vue.js. Additionally, I am enthusiastic about contributing to open source projects focused on artificial intelligence and machine learning. My interests also extend to collaborating on projects that involve designing user interfaces (UI) and enhancing user experience (UX)."
 
