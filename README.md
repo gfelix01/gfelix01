@@ -17,7 +17,7 @@ HTML /&#x1F3A8; <!-- 🎨 -->
 - 👯"I am seeking collaboration opportunities in large-scale web development projects that leverage technologies such as React, Angular, or Vue.js. Additionally, I am enthusiastic about contributing to open source projects focused on artificial intelligence and machine learning. My interests also extend to collaborating on projects that involve designing user interfaces (UI) and enhancing user experience (UX)."
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfelix01&hid_progress=true)
-
+Typescript JavaScript ECMAScript 6 React
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/gfelix01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/arturo-felix-dssn20//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/gabrielarturo.felixpaez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/felix5637_//)  
 
