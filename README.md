@@ -12,15 +12,15 @@
 
 - 🤝 I’m looking for help with **React,Vue ,NextJs**
 
-- 👨‍💻 All of my projects are available at [https://portafolio-web-psi-one.vercel.app/](https://portafolio-web-psi-one.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-resume-gilt-tau.vercel.app/)
 
-- 📝 I regularly write articles on [@GABRIELART75843](@GABRIELART75843)
+  
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
 - 📫 How to reach me **Gabriel_arturo01@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arturo-felix-dssn20/](https://www.linkedin.com/in/arturo-felix-dssn20/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/arturo-felix/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
