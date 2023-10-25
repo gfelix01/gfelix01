@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Invntio](https://github.com/gfelix01/invntio)
 
-- 🤝 I’m looking for help with **React,Vue ,NextJs**
+- 🤝 I’m looking for help with **React,Vue,*
 
 - 👨‍💻 All of my projects are available at [https://my-resume-gilt-tau.vercel.app/)
 
