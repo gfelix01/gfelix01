@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfelix01&label=Profile%20views&color=0e75b6&style=flat" alt="gfelix01" /> </p>
 
 
-- 🔭 I’m currently working on [Portafolio](https://github.com/gfelix01/Portafolio-Web)
+
 
 - 🌱 I’m currently learning **React.**
 
