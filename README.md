@@ -1,51 +1,64 @@
-<h1 align="center">Hi there! 👋 I'm Gabriel Arturo Felix Paez</h1>
-<h3 align="center">Passionate Frontend Developer from the Dominican Republic</h3>
+# Pokedex
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gfelix01&label=Profile%20views&color=0e75b6&style=flat" alt="gfelix01" /> </p>
+Este es un proyecto de Pokedex simple que te permite buscar y ver información sobre Pokémon. Utiliza la API de PokeAPI para obtener los datos de los Pokémon.
 
-- 🌱 Currently learning **React**.
+## Características
 
-- 🤝 Seeking help with **React, Vue**.
+- Buscar Pokémon por nombre.
+- Mostrar detalles de un Pokémon, como su nombre, imagen, altura y peso.
+- Borrar la información del Pokémon.
 
-- 👨‍💻 Explore my projects at [My Portfolio](https://my-resume-gilt-tau.vercel.app/).
+## Capturas de pantalla
 
-- 💬 Ask me about **Web Service, Landing Page, Ecommerce**.
+![Captura de pantalla 1](screenshot1.png)
+![Captura de pantalla 2](screenshot2.png)
 
-- 📫 Reach me at **Gabriel_arturo01@hotmail.com** or **Gabrielarturo0221@gmail.com**.
+## Uso
 
-- 📄 Check my experiences on [LinkedIn](https://www.linkedin.com/in/arturo-felix/).
+1. Clona este repositorio en tu máquina local.
+2. Abre `index.html` en tu navegador.
+3. Escribe el nombre de un Pokémon en el campo de búsqueda y haz clic en "Buscar".
+4. Se mostrarán los detalles del Pokémon si se encuentra en la base de datos.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/arturo-felix-dssn20/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/arturo_code.js" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/gabriel_arturo01" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
+## Tecnologías utilizadas
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
+- HTML
+- CSS (incluyendo Bootstrap)
+- JavaScript
 
+## Consumiendo la API
 
+Para obtener los datos de los Pokémon, este proyecto utiliza la [PokeAPI](https://pokeapi.co/), una API pública que proporciona información detallada sobre todas las especies de Pokémon.
 
-  <!-- Add other icons as needed -->
-</p>
+### Funcionalidades de la API
 
-<!-- Add GitHub stats if desired -->
-<!-- Example: -->
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gfelix01&show_icons=true&locale=en" alt="gfelix01" /></p> -->
+- **Búsqueda por nombre:** La API permite realizar consultas de Pokémon mediante su nombre. Esto se integra en la funcionalidad de búsqueda del proyecto.
+- **Detalles de un Pokémon:** Al realizar una solicitud con el nombre del Pokémon, se obtienen datos como el nombre, imagen, altura, peso y más detalles relacionados.
+- **Borrado de información:** La API también permite el borrado de la información de un Pokémon específico, lo cual se refleja en la opción del proyecto.
 
+### Endpoints Utilizados
+
+- `/pokemon/{id o nombre}`: Proporciona detalles de un Pokémon específico según su nombre o ID.
+- Otros endpoints adicionales se utilizan para recopilar información detallada y específica de cada Pokémon.
+
+### Integración en el Proyecto
+
+El código JavaScript del proyecto realiza solicitudes HTTP utilizando fetch para interactuar con la API PokeAPI. Estas solicitudes se enfocan en obtener y mostrar los detalles de los Pokémon en el navegador.
+
+## Contribuciones
+
+¡Siéntete libre de contribuir a este proyecto! Puedes abrir problemas, enviar solicitudes de extracción o sugerir mejoras. Estamos abiertos a colaboración.
+
+## Próximos Pasos
+
+- Mejorar la experiencia del usuario al mostrar más detalles sobre los Pokémon, como movimientos, habilidades, etc.
+- Implementar funcionalidades de filtrado y ordenación para facilitar la búsqueda de Pokémon.
+- Añadir soporte para la carga de imágenes de otros juegos de la franquicia Pokémon.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+Este proyecto fue creado por Gabriel Arturo Felix Paez. Puedes contactarme en gabriel_arturo01@hotmail.com.
