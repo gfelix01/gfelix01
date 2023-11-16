@@ -1,64 +1,46 @@
-# Pokedex
+<h1 align="center">Hi 👋, I'm Gabriel Arturo Felix Paez</h1>
+<h3 align="center">A passionate frontend developer from DR.</h3>
 
-Este es un proyecto de Pokedex simple que te permite buscar y ver información sobre Pokémon. Utiliza la API de PokeAPI para obtener los datos de los Pokémon.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gfelix01&label=Profile%20views&color=0e75b6&style=flat" alt="gfelix01" /> </p>
 
-## Características
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gfelix01" alt="gfelix01" /></a> </p>
 
-- Buscar Pokémon por nombre.
-- Mostrar detalles de un Pokémon, como su nombre, imagen, altura y peso.
-- Borrar la información del Pokémon.
+- 🔭 I’m currently working on [Portafolio](https://github.com/gfelix01/Portafolio-Web)
 
-## Capturas de pantalla
+- 🌱 I’m currently learning **React.**
 
-![Captura de pantalla 1](screenshot1.png)
-![Captura de pantalla 2](screenshot2.png)
+- 👯 I’m looking to collaborate on [Invntio](https://github.com/gfelix01/invntio)
 
-## Uso
+- 🤝 I’m looking for help with [Pokedex](https://github.com/gfelix01/Pokedex)
 
-1. Clona este repositorio en tu máquina local.
-2. Abre `index.html` en tu navegador.
-3. Escribe el nombre de un Pokémon en el campo de búsqueda y haz clic en "Buscar".
-4. Se mostrarán los detalles del Pokémon si se encuentra en la base de datos.
+- 👨‍💻 All of my projects are available at [https://my-resume-gilt-tau.vercel.app/](https://my-resume-gilt-tau.vercel.app/)
 
-## Tecnologías utilizadas
+- 📝 I regularly write articles on [@GABRIELART75843](@GABRIELART75843)
 
-- HTML
-- CSS (incluyendo Bootstrap)
-- JavaScript
+- 💬 Ask me about **JavaScript, HTML, CSS,Boostrap.**
 
-## Consumiendo la API
+- 📫 How to reach me **Gabrielarturo0221@gmail.com**
 
-Para obtener los datos de los Pokémon, este proyecto utiliza la [PokeAPI](https://pokeapi.co/), una API pública que proporciona información detallada sobre todas las especies de Pokémon.
+- 📄 Know about my experiences [https://www.linkedin.com/in/arturo-felix-dssn20/](https://www.linkedin.com/in/arturo-felix-dssn20/)
 
-### Funcionalidades de la API
+- ⚡ Fun fact **🎮Warzone, ⛹🏾‍♂️outside.**
 
-- **Búsqueda por nombre:** La API permite realizar consultas de Pokémon mediante su nombre. Esto se integra en la funcionalidad de búsqueda del proyecto.
-- **Detalles de un Pokémon:** Al realizar una solicitud con el nombre del Pokémon, se obtienen datos como el nombre, imagen, altura, peso y más detalles relacionados.
-- **Borrado de información:** La API también permite el borrado de la información de un Pokémon específico, lo cual se refleja en la opción del proyecto.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arturo-felix-dssn20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arturo-felix-dssn20/" height="30" width="40" /></a>
+<a href="https://fb.com/https://web.facebook.com/gabrielarturo.felixpaez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/gabrielarturo.felixpaez/" height="30" width="40" /></a>
+<a href="https://instagram.com/arturo_code.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arturo_code.js" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gabriel_arturo01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gabriel_arturo01" height="30" width="40" /></a>
+</p>
 
-### Endpoints Utilizados
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-- `/pokemon/{id o nombre}`: Proporciona detalles de un Pokémon específico según su nombre o ID.
-- Otros endpoints adicionales se utilizan para recopilar información detallada y específica de cada Pokémon.
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/gabrielartur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/gabrielartur" /></a></p><br><br>
 
-### Integración en el Proyecto
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gfelix01&show_icons=true&locale=en&layout=compact" alt="gfelix01" /></p>
 
-El código JavaScript del proyecto realiza solicitudes HTTP utilizando fetch para interactuar con la API PokeAPI. Estas solicitudes se enfocan en obtener y mostrar los detalles de los Pokémon en el navegador.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gfelix01&show_icons=true&locale=en" alt="gfelix01" /></p>
 
-## Contribuciones
-
-¡Siéntete libre de contribuir a este proyecto! Puedes abrir problemas, enviar solicitudes de extracción o sugerir mejoras. Estamos abiertos a colaboración.
-
-## Próximos Pasos
-
-- Mejorar la experiencia del usuario al mostrar más detalles sobre los Pokémon, como movimientos, habilidades, etc.
-- Implementar funcionalidades de filtrado y ordenación para facilitar la búsqueda de Pokémon.
-- Añadir soporte para la carga de imágenes de otros juegos de la franquicia Pokémon.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-Este proyecto fue creado por Gabriel Arturo Felix Paez. Puedes contactarme en gabriel_arturo01@hotmail.com.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gfelix01&" alt="gfelix01" /></p>
