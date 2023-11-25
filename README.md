@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.**
 
-- 👯 I’m looking to collaborate on [Invntio](https://github.com/gfelix01/invntio)
+- 👯 I’m looking to collaborate on [Devkoore](https://devkoore.com/)
 
 - 🤝 I’m looking for help with [Pokedex](https://github.com/gfelix01/Pokedex)
 
