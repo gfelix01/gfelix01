@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gfelix01" alt="gfelix01" /></a> </p>
 
-- 🔭 I’m currently working on [Portafolio](https://github.com/gfelix01/Portafolio-Web)
+- 🔭 I’m currently working on [Portafolio](https://my-resume-gilt-tau.vercel.app/)
 
 - 🌱 I’m currently learning **React.**
 
@@ -13,11 +13,10 @@
 
 - 🤝 I’m looking for help with [Pokedex](https://github.com/gfelix01/Pokedex)
 
-- 👨‍💻 All of my projects are available at [https://my-resume-gilt-tau.vercel.app/](https://my-resume-gilt-tau.vercel.app/)
 
 - 📝 I regularly write articles on [@GABRIELART75843](@GABRIELART75843)
 
-- 💬 Ask me about **JavaScript, HTML, CSS,Boostrap.**
+- 💬 Ask me about **JavaScript, HTML, CSS, Boostrap, Optimization, SEO.**
 
 - 📫 How to reach me **Gabrielarturo0221@gmail.com**
 
