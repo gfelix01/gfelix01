@@ -40,6 +40,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gfelix01&show_icons=true&locale=en&layout=compact" alt="gfelix01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gfelix01&show_icons=true&locale=en" alt="gfelix01" /></p>
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=gfelix01&show_icons=true&locale=en" alt="gfelix01's GitHub Stats">
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gfelix01&" alt="gfelix01" /></p>
+
+<div style="text-align: center; padding: 20px; background-color: #f3f3f3;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gfelix01" alt="gfelix01's GitHub Contribution Streak" style="max-width: 100%; border-radius: 8px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+</div>
+
