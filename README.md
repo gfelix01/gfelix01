@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gabriel Arturo Felix Paez</h1>
 <h3 align="center">A passionate frontend developer from DR.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gfelix01&label=Profile%20views&color=0e75b6&style=flat" alt="gfelix01" /> </p>
+<div style="text-align: center; padding: 10px; background-color: #f3f3f3; border-radius: 8px;">
+    <img src="https://komarev.com/ghpvc/?username=gfelix01&label=Profile%20views&color=0e75b6&style=flat" alt="gfelix01's Profile Views" style="max-width: 100%;">
+</div>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gfelix01" alt="gfelix01" /></a> </p>
 
