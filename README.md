@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gfelix01" alt="gfelix01" /></a> </p>
 
-- 🔭 I’m currently working on [Portafolio](https://my-resume-gilt-tau.vercel.app/) and [Portafolio-NextJs](https://github.com/gfelix01/Portafolio-NextJs)
+- 🔭 I’m currently working on [Portafolio-NextJs](https://github.com/gfelix01/Portafolio-NextJs)
 
 - 🌱 I’m currently learning **ReactJS.**
 
