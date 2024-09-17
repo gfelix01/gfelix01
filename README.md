@@ -8,13 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gfelix01" alt="gfelix01" /></a> </p>
 
-- 🔭 I’m currently working on [Portafolio-NextJs](https://github.com/gfelix01/Portafolio-NextJs)
+- 🔭 I’m currently working on [Portafolio-NextJs](https://portafolio-phi-ruddy-34.vercel.app/)
 
 - 🌱 I’m currently learning **ReactJS.**
-
-- 👯 I’m looking to collaborate on [Devkoore](https://devkoore.com/)
-
-- 🤝 I’m looking for help with [Pokedex](https://github.com/gfelix01/Pokedex)
 
 
 - 📝 I regularly write articles on [@GABRIELART75843](@GABRIELART75843)
