@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gabriel Arturo Felix Paez</h1> <h3 align="center">A passionate frontend developer from the Dominican Republic</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=gfelix01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=gfelix01" alt="GitHub Trophies" /> </a> </p>
+<h1 align="center">Hi 👋, I'm Gabriel Arturo Felix Paez</h1> <h3 align="center">A passionate Software developer from the Dominican Republic</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=gfelix01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=gfelix01" alt="GitHub Trophies" /> </a> </p>
 🔭 Current Project
-I’m currently working on Portafolio-NextJs
 🌱 Learning
 I’m currently diving deeper into ReactJS
 📝 Articles
@@ -12,7 +11,7 @@ How to reach me: Gabrielarturo0221@gmail.com
 📄 Experience
 Know about my experiences on LinkedIn
 ⚡ Fun Fact
-🎮 I love Warzone and enjoy playing sports like basketball ⛹🏾‍♂️
+🎮 I love Warzone and enjoy playing sports like baseball ⛹🏾‍♂️
 Connect With Me
 <p align="left"> <a href="https://linkedin.com/in/arturo-felix-dssn20" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a> <a href="https://web.facebook.com/gabrielarturo.felixpaez/" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /> </a> <a href="https://instagram.com/arturo_code.js" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /> </a> <a href="https://www.hackerrank.com/gabriel_arturo01" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /> </a> </p>
 Languages and Tools
